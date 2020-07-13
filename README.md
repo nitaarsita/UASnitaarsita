@@ -1,1 +1,2 @@
 # UASnitaarsita
+UAS Arsitektur&Komputer
